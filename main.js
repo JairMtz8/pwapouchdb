@@ -1,6 +1,6 @@
 if ('serviceWorker' in navigator) {
     window.addEventListener('load', function () {
-        this.navigator.serviceWorker.register('sw.js')
+        navigator.serviceWorker.register('/pwapouchdb/sw.js')
             .then(function (registration) {
                 console.log('ServiceWorker registration successful')
             })

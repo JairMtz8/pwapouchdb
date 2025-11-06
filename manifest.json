@@ -1,7 +1,7 @@
 {
     "name": "PWA con PouchDB",
     "short_name": "PouchDB",
-    "start_url": "/pwapouchdb.io/",
+    "start_url": "/pwapouchdb/",
     "display": "standalone",
     "background_color": "#1A202C",
     "theme_color": "#4A90E2",
